@@ -1,0 +1,6 @@
+ansible_user: root
+rke2_version: v1.30.0+rke2r1
+local_s3_endpoint: http://local-s3.internal
+s3_bucket: rke2-artifacts
+rke2_tar_path: /tmp/rke2.tar.gz
+install_script_path: /tmp/install-rke2.sh

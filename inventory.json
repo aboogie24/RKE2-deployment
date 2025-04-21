@@ -1,0 +1,19 @@
+{
+    "rke2_nodes": {
+      "value": [
+        {
+          "ip": "192.168.100.10",
+          "hostname": "rke2-node-0"
+        },
+        {
+          "ip": "192.168.100.11",
+          "hostname": "rke2-node-1"
+        },
+        {
+          "ip": "192.168.100.12",
+          "hostname": "rke2-node-2"
+        }
+      ]
+    }
+  }
+  
